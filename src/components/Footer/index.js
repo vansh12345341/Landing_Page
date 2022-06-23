@@ -46,12 +46,7 @@ const LeftText = styled.div`
 const Footer = () => {
   return (
     <FOOTER>
-      <LeftText>
-        © 2021 Built and Design by{" "}
-        <a href="https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA">
-          @CodeBucks
-        </a>
-      </LeftText>
+     
       <RightText>
         Reach out to me via 😉
         <a href="https://twitter.com/code_bucks">
