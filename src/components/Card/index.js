@@ -1,4 +1,4 @@
-import styled from "styled-components";
+ import styled from "styled-components";
 
 const CARD = styled.div`
   height: calc(8rem + 12vw);
