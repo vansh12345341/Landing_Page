@@ -43,28 +43,15 @@ const RightText = styled.div`
 const LeftText = styled.div`
   text-align: left;
 `;
+
 const Footer = () => {
   return (
     <FOOTER>
      
-      <RightText>
-        Reach out to me via 😉
-        <a href="https://twitter.com/code_bucks">
-          <img src={Twitter} alt="Twitter" />
-        </a>
-        &nbsp;
-        <a href="https://www.instagram.com/code.bucks/">
-          <img src={Instagram} alt="Instagram" />
-        </a>
-        &nbsp;
-        <a href="mailto:codebucks27@gmail.com?subject=Email From Your Website">
-          <img src={Gmail} alt="Gmail" />
-        </a>
-      </RightText>
+      
     </FOOTER>
   );
 };
 
 export default Footer;
 
-//© 2021 by CodeBucks. Design by @CodeBucks.
